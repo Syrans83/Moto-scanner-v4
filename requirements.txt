@@ -1,0 +1,7 @@
+streamlit>=1.37
+pandas>=2.0
+numpy>=1.26
+requests>=2.32
+beautifulsoup4>=4.12
+
+lbc>=0.1
